@@ -1,6 +1,6 @@
 # BitZenyPool INFO概要
-BitZenyのPool情報を確認できるLINEBotのソースコードです  
-元々はWeb版だけで提供していた物をLINEに移植したものです  
+BitZenyのPool情報をLINEから確認できるLINEBotのソースコードです  
+元々はWebで提供していた物をLINEに移植したものです  
 
 # 情報
 PHPで書いています。  
